@@ -2,7 +2,6 @@
 
 A modern web application for predictive and preventative disease analysis with tailored treatment recommendations.
 
-## 🔗 [Live Demo](https://ayokanmi-adejola-healthcare-hub.netlify.app/login)
 
 ## ✨ Features
 
@@ -71,9 +70,7 @@ src/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details
 
 ## 👨‍💻 Author
 
